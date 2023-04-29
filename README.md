@@ -34,14 +34,10 @@ class Attributes(Scobru):
 	
 	@staticmethod
 	def projects(self) -> tuple:
-		blockchain = [
-      'Nali Altair',
-      'Lines',
-      'Mecenate',
-      'Tiers'
-    ]
-		
-		
+		defi = ['Nali Altair']
+		marketplace = ['Mecenate']
+		social = ['Lines', 'Tiers']
+   
 		return discord, tiktok, instagram, twitch, website
 
 ```

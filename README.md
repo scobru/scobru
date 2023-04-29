@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```python
-class Attributes(Tekky):
+class Attributes(Scobru):
 	def __init__(self) -> None:
 	    pass
 	
@@ -23,8 +23,8 @@ class Attributes(Tekky):
 	@staticmethod
 	def coding(self) -> tuple:
 		langs = {
-			'expert':   ['js'],
-			'intermediate': ['solidity', 'ts','python'],
+			'expert':   [''],
+			'intermediate': ['solidity', 'ts','python', 'js'],
 			'learning': ['go']
 		}
 		specialities  = ['fullstack', 'Smart Contract']

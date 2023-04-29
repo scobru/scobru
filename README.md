@@ -14,9 +14,9 @@ class Attributes(Scobru):
 	
 	@staticmethod
 	def life(self) -> tuple:
-		langs         = [ 'English']
+		langs         = ['English']
 		nationalities = self.langs.remove( 'English').append('Italian')
-		age           = 17
+		age           = 35
 		
 		return langs, nationalities, age
 	

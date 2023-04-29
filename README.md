@@ -7,7 +7,8 @@ class Attributes(Scobru):
 	
 	@staticmethod
 	def contact(self) -> tuple:
-	    telegram = "t.me/scobru"
+	    telegram = "t.me/scobrudev"
+	    proton = dev.scobru@pm.me
 	    
 	    return  telegram, proton
 	

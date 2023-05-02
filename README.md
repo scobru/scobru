@@ -34,7 +34,7 @@ class Attributes(Scobru):
 	
 	@staticmethod
 	def projects(self) -> tuple:
-		defi = ['Nali Altair'.'Universe']
+		defi = ['Nali Altair','Universe']
 		marketplace = ['Mecenate']
 		social = ['Lines', 'Tiers']
    

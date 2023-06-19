@@ -1,45 +1,6 @@
 ### Hi there 👋
 
-```python
-class Attributes(Scobru):
-	def __init__(self) -> None:
-	    pass
-	
-	@staticmethod
-	def contact(self) -> tuple:
-	    telegram = "t.me/scobrudev"
-	    proton = dev.scobru@pm.me
-	    
-	    return  telegram, proton
-	
-	@staticmethod
-	def life(self) -> tuple:
-		langs         = ['English']
-		nationalities = self.langs.remove( 'English').append('Italian')
-		age           = 35
-		
-		return langs, nationalities, age
-	
-	@staticmethod
-	def coding(self) -> tuple:
-		langs = {
-			'expert':   [''],
-			'intermediate': ['solidity', 'ts','python', 'js'],
-			'learning': ['go']
-		}
-		specialities  = ['fullstack', 'Smart Contract']
-		environnement = ['vscode']
-		
-		return langs, specialities, environnement
-	
-	@staticmethod
-	def projects(self) -> tuple:
-		defi = ['Nali Altair','Universe']
-		marketplace = ['Mecenate']
-		social = ['Lines', 'Tiers']
-   
-		return discord, tiktok, instagram, twitch, website
-
+contact:  [telegram](https://t.me/scobrudotdev)
 ```
 
 <h2 align="center">Skills </h2>

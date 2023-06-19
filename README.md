@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 contact:  [telegram](https://t.me/scobrudotdev)
-```
 
 <h2 align="center">Skills </h2>
 

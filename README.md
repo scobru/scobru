@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-contact:  [telegram](https://t.me/scobrudotdev)
+contact:  [telegram](https://t.me/plancia)
 
 <h2 align="center">Skills </h2>
 

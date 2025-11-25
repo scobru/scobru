@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-contact:  [telegram](https://t.me/plancia)
+contact:  [telegram](https://t.me/scobru)
 
 <h2 align="center">Skills </h2>
 
